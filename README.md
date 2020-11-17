@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am lids, coding enthusiast!<br>
-🔭 I’m currently working on a flask (restful) application related to travels, just because we can't travel for real!<br> 
+🔭 I’m currently working on a flask (restful) application related to travels, just because we can't travel for real now!<br> 
 🌱 I code in python, however as versitile as this language is, I am now learning web side of it.<br> 
 🌱 I'm pretty new to front-end development too. So far, feeling somewhat comortable with JS and HTML. But I know this is just a start!<br>
 👯 I’m looking to collaborate on any cool project, preferably involving python, web and machine learning.<br>
