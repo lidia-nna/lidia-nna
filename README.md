@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi I am lids, coding enthusiast!
+🔭 I’m currently working on a flask (restful) application related to travels just because we can't travel for real!
+🌱 I code in python, however as versitile as this language is, I am now learning web side of it. 
+🌱 I'm pretty new to front-end development too. So far, feeling somewhat comortable with JS and HTML. But I know this is just a start!
+👯 I’m looking to collaborate on any cool project, preferably involving python, web and machine learning.
+📫 How to reach me: lid.mijas@gmail.com
