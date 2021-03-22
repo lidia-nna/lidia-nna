@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Coding in python & JS Making web-apps APIs jupyter notebooks visualisations!<br>
 👯 I’m looking to collaborate on any cool project, preferably involving python, web and machine learning.<br>
-📫 Please email me at lid.mijas@gmail.com!
+📫 Please give me a shout!
